@@ -387,6 +387,11 @@ assignToWorkspace = "6"
 bundleId = "com.tinyspeck.slackmacgap"
 id = "9231F651-418B-46DE-B193-AADDFF1B5636"
 
+[[appRules]]
+assignToWorkspace = "7"
+bundleId = "dev.shipwarden.app"
+id = "86D490BF-F94D-44DA-800C-00C612EF4A1E"
+
 [[hotkeys]]
 binding = "Unassigned"
 id = "toggleScratchpad.1"

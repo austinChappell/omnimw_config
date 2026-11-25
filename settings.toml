@@ -319,6 +319,16 @@ id = "E53C50CB-CEBA-42C1-88C3-E3D485CD1BFC"
 
 [[appRules]]
 assignToWorkspace = "1"
+bundleId = "dev.serafim.fast"
+id = "292A13C6-B269-47BF-8804-A47BB018C8EC"
+
+[[appRules]]
+assignToWorkspace = "1"
+bundleId = "org.ladybird.Ladybird"
+id = "A4D6066D-AD71-4B0E-9311-F0D6C2CC6407"
+
+[[appRules]]
+assignToWorkspace = "1"
 bundleId = "com.kagi.kagimacOS"
 id = "F24C0D14-6AC9-484B-B054-14CD6E0E33B6"
 
